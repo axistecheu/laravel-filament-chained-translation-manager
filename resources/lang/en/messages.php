@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'title' => 'Translation manager',
+    'title' => 'Translations',
     'navigation-group' => 'Settings',
     'search_term_placeholder' => 'Search translation',
     'selected_groups_placeholder' => 'Select group',
